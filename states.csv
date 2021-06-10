@@ -1,0 +1,54 @@
+STATE_ABBR,STATE_NAME,DIVISION_ID
+AL,Alabama,2
+AK,Alaska,7
+AZ,Arizona,4
+AR,Arkansas,11
+CA,California,7
+CO,Colorado,4
+CT,Connecticut,5
+DE,Delaware,8
+DC,District of Columbia,8
+FS,Federal,6
+FL,Florida,8
+GA,Georgia,8
+GM,Guam,9
+HI,Hawaii,7
+ID,Idaho,4
+IL,Illinois,1
+IN,Indiana,1
+IA,Iowa,10
+KS,Kansas,10
+KY,Kentucky,2
+LA,Louisiana,11
+ME,Maine,5
+MD,Maryland,8
+MA,Massachusetts,5
+MI,Michigan,1
+MN,Minnesota,10
+MS,Mississippi,2
+MO,Missouri,10
+MT,Montana,4
+NB,Nebraska,10
+NV,Nevada,4
+NH,New Hampshire,5
+NJ,New Jersey,3
+NM,New Mexico,4
+NY,New York,3
+NC,North Carolina,8
+ND,North Dakota,10
+OH,Ohio,1
+OK,Oklahoma,11
+OR,Oregon,7
+PA,Pennsylvania,3
+RI,Rhode Island,5
+SC,South Carolina,8
+SD,South Dakota,10
+TN,Tennessee,2
+TX,Texas,11
+UT,Utah,4
+VT,Vermont,5
+VA,Virginia,8
+WA,Washington,7
+WV,West Virginia,8
+WI,Wisconsin,1
+WY,Wyoming,4

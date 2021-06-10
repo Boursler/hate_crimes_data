@@ -1,0 +1,12 @@
+DIVISION_ID,DIVISION_NAME,REGION_ID
+1,East North Central,1
+2,East South Central,1
+3,Middle Atlantic,2
+4,Mountain,2
+5,New England,3
+6,Other,4
+7,Pacific,4
+8,South Atlantic,4
+9,U.S. Territories,5
+10,West North Central,6
+11,West South Central,6
